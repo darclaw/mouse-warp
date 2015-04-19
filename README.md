@@ -1,2 +1,3 @@
 # mouse-warp
-a tool that makes the mouse move to the center of newly focused windows
+a tool that makes the mouse move to the center of newly focused windows (*nux)
+requires X and xdotools
